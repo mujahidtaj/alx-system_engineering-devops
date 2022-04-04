@@ -1,0 +1,2 @@
+#!/bin/bashi
+egrep ^[[:alpha:]] /etc/ssh/sshd_config
